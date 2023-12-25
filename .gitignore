@@ -2,16 +2,10 @@
 .DS_Store
 .DS_Store?
 Export/
-templates/bin/hl/*
 project/all_objs
 project/obj
-project/vc*.pdb
-*.userprefs
-*.swp
+project/vc*.pd
 .idea/
-*.iml
-tools/*.n
-tools/*.exe
 tools/obj
 haxedoc.xml
 docs/*.xml
