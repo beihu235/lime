@@ -8,6 +8,10 @@
 	<array>::foreach languages::
 		<string>::__current__::</string>::end::
 	</array>::end::
+	<key>UIFileSharingEnabled</key>
+	<string>true</string>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<string>true</string>
 	<key>CFBundleDisplayName</key>
 	<string>::APP_TITLE::</string>
 	<key>CFBundleExecutable</key>
