@@ -13,6 +13,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<string>true</string>
 	<key>CFBundleDisplayName</key>
+        <string>NSBluetoothAlwaysUsageDescription</string>
 	<string>::APP_TITLE::</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
