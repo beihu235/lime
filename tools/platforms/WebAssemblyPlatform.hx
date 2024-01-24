@@ -214,10 +214,10 @@ class WebAssemblyPlatform extends PlatformTarget
 
 		// set initial size
 		// args.push("-s");
-		// args.push("INITIAL_MEMORY=32MB");
+		// args.push("INITIAL_MEMORY=100MB");
 
 		args.push("-s");
-		args.push("TOTAL_MEMORY=4096MB");
+		args.push("TOTAL_MEMORY=1024MB");
 
 		args.push("-s");
 		args.push("STACK_SIZE=1MB");
